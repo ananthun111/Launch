@@ -1,0 +1,47 @@
+{
+  "team": [
+    {
+      "name": "Anantha Narayanan K",
+      "role": "CEO & Founder",
+      "description": "Visionary leader with 5+ years in digital transformation and AI innovation.",
+      "initials": "AK"
+    },
+    {
+      "name": "Arun AR",
+      "role": "CTO",
+      "description": "Technical architect specializing in scalable SaaS solutions and cloud infrastructure.",
+      "initials": "AR"
+    },
+
+    {
+      "name": "Joyal Siby",
+      "role": "Head of  Designs",
+      "description": "Creative UI/UX & Graphic Designer with a passion for crafting user-centric experiences",
+      "initials": "JS"
+    },
+    {
+      "name": "Sreejith T ",
+      "role": "VP of Customer Success",
+      "description": "Customer-focused leader ensuring successful digital transformation journeys.",
+      "initials": "ST"
+    }
+  ],
+
+  "socialLinks": [
+    {
+      "icon": "Instagram",
+      "href": "https://www.instagram.com/dcodeux/",
+      "label": "Instagram"
+    },
+    {
+      "icon": "Linkedin",
+      "href": "https://www.linkedin.com/company/dcodeux/",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "Youtube",
+      "href": "https://www.youtube.com/@dcodeux",
+      "label": "YouTube"
+    }
+  ]
+}

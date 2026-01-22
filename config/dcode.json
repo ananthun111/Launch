@@ -1,29 +1,22 @@
 {
   "team": [
     {
-      "name": "Anantha Narayanan K",
+      "name": "Nidhin Raj",
       "role": "CEO & Founder",
-      "description": "Visionary leader with 5+ years in digital transformation and AI innovation.",
-      "initials": "AK"
+      "description": "Visionary leader with 4+ years in digital transformation and AI innovation.",
+      "initials": "NR"
     },
     {
-      "name": "Arun AR",
-      "role": "CTO",
+      "name": "Anantha Narayanan K",
+      "role": "CTO & Founder",
       "description": "Technical architect specializing in scalable SaaS solutions and cloud infrastructure.",
-      "initials": "AR"
-    },
-
-    {
-      "name": "Joyal Siby",
-      "role": "Head of  Designs",
-      "description": "Creative UI/UX & Graphic Designer with a passion for crafting user-centric experiences",
-      "initials": "JS"
+      "initials": "AN"
     },
     {
-      "name": "Sreejith T ",
-      "role": "VP of Customer Success",
+      "name": "Arivind S",
+      "role": "VP of Customer Success & Founder",
       "description": "Customer-focused leader ensuring successful digital transformation journeys.",
-      "initials": "ST"
+      "initials": "AS"
     }
   ],
 
